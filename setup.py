@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='boomerang-client',
-    version='0.1',
+    version='0.11',
     packages=['boomerang'],
     url='https://github.com/olalidmark/boomerang-client',
     license='MIT',
